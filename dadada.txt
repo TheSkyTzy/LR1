@@ -2,9 +2,9 @@ hhhh
 Fish was here
 FISH IS ANGRY
 
-<<<<<<< HEAD
+
 Fish gonna be first
 Fish love to be first
-=======
+
 HAHAHHAHAHAHAHHAHAHHAHAHAHHAHAHAHHA
->>>>>>> 4e9464c273896f6dd522e93f20195dbb238e2cc2
+
